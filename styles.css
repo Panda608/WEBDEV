@@ -1,0 +1,13 @@
+.header
+{
+    color:red
+
+}
+body {
+    background-color:aqua;
+    font-family: 'Times New Roman';
+}
+.paragraph*
+{
+    font-size: 60px;
+}
