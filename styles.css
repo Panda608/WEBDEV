@@ -1,13 +1,19 @@
 .header
 {
-    color:red
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 body {
     background-color:aqua;
     font-family: 'Times New Roman';
 }
-.paragraph*
-{
-    font-size: 60px;
+
+.ul-hidden {
+    opacity: 0;
 }
+
+
+
+
+
